@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Jose
+## Hi there 👋, my name is Jose
 ### I'm Software developer student
 ![I'm Software developer student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
