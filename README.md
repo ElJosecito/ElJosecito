@@ -1,7 +1,7 @@
 
 ## Hi there 👋, my name is Jose
 ### I'm Software developer student
-![I'm Software developer student](https://firebasestorage.googleapis.com/v0/b/githubprofile-26563.appspot.com/o/Brown%20Minimalist%20Coffee%20Shop%20Banner%20(1).png?alt=media&token=6126ae19-24db-486f-a0cf-d08d8ca9cee8)
+![I'm Software developer student](https://firebasestorage.googleapis.com/v0/b/githubprofile-26563.appspot.com/o/2.png?alt=media&token=7c85af25-b453-43bb-a496-4a04e66db10d)
 
 I made projects for fun while i'm learning at the university, personally i'm a creative person who want to learn more every day and a think that's made me special.
 
