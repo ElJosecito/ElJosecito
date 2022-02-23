@@ -7,7 +7,7 @@ I made projects for fun while i'm learning at the university, personally i'm a c
 
 Skills:  / HTML / CSS / JS
 
-- ###🔭 I’m currently working on whatever I think 
+- 🔭 I’m currently working on whatever I think 
 - 🌱 I’m currently learning so much 
 - 🤔 I’m looking for help with what you think you could help me 
 - 💬 Ask me about whatever you want 
