@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Jose
-#### I'm Software developer student
+### I'm Software developer student
 ![I'm Software developer student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made projects for fun while i'm learning at the university, personally i'm a creative person who want to learn more every day and a think that's made me special.
