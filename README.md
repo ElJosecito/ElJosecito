@@ -22,4 +22,4 @@ Skills:  HTML / CSS / JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eljosecito&show_icons=true)  
 
-![](https://komarev.com/ghpvc/?Eljosecito)
+![](https://komarev.com/ghpvc/?Eljosecito&label=PROFILE+VIEWS)
