@@ -16,10 +16,11 @@ Skills:  HTML / CSS / JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eljosecito)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/josecito_ucny/)  
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Eljosecito&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Eljosecito&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eljosecito&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eljosecito)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eljosecito&show_icons=true)  
+[![](https://visitcount.itsvg.in/api?id=Eljosecito&icon=7&color=0)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?Eljosecito&label=PROFILE+VIEWS)
