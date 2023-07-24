@@ -5,7 +5,7 @@
 
 I'm an 19 year developer who like to make projects for fun while i'm learning at the university, personally i'm a creative person who want to learn more and more every day and a think that's made me special. I love the world of coding in all the way.
 
-Skills:  HTML / CSS / JS / React
+Skills:  HTML / CSS / JS / React / NodeJs
 
 - 🔭 I’m currently working on whatever I think 
 - 🌱 I’m currently learning so much 
