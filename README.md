@@ -1,6 +1,6 @@
 
 ## Hi there 👋, my name is Jose
-### I'm FullStack developer and Software Develpment Student.
+### I'm FullStack developer and Software Development Student.
 ![I'm Software developer student](https://firebasestorage.googleapis.com/v0/b/githubprofile-26563.appspot.com/o/2.png?alt=media&token=7c85af25-b453-43bb-a496-4a04e66db10d)
 
 I'm an 19 year developer who like to make projects for fun while i'm learning at the university, personally i'm a creative person who want to learn more and more every day and a think that's made me special. I love the world of coding in all the way.
